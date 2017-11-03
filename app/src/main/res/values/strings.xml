@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHub Loader</string>
+    <string name="no_internet">Você precisa de internet para carregar mais repositórios.</string>
+    <string name="error_load_more">Erro ao ler mais repositórios.</string>
+    <string name="retry">Novamente</string>
+    <string name="initialization_error">Ocorreu um erro ao inicializar o aplicativo.\nGostaria de tentar novamente?</string>
+    <string name="pull_request_error">Ocorreu um erro ao baixar os pull requests desse projeto.\nGostaria de tentar novamente?</string>
+    <string name="opened">Abertos</string>
+    <string name="closed">Fechados</string>
+    <string name="no_pull_requests_in_repository">Esse repositório não possui Pull Requests abertos no momento.</string>
+</resources>
